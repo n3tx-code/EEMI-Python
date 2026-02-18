@@ -161,7 +161,7 @@ nombres = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ---
 
-### Exercice 12 – Dictionnaires (Comptage de lettres)
+### Exercice 11 – Dictionnaires (Comptage de lettres)
 
 **Objectif**: compter des fréquences avec un dictionnaire.
 
@@ -173,7 +173,7 @@ nombres = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ---
 
-### Exercice 11 – Fonctions (Convertisseur de température)
+### Exercice 12 – Fonctions (Convertisseur de température)
 
 **Objectif**: écrire et utiliser une fonction de conversion.
 
@@ -187,7 +187,7 @@ nombres = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 ---
 
-### Exercice 12 – Algorithme (Inversion manuelle)
+### Exercice 13 – Algorithme (Inversion manuelle)
 
 **Objectif**: manipuler une liste sans utiliser les raccourcis Python.
 
