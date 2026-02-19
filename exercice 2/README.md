@@ -57,7 +57,7 @@ Affichez le contenu JSON récupéré avec `response.json()`.
 
 ---
 
-## Exercice 21 – Compte bancaire (préparation à l’exercice 9)
+## Exercice 21 – Compte bancaire (préparation à l’exercice 22)
 
 Créez une classe `CompteBancaire` avec un attribut `solde` (initialisé par exemple à 0 dans le constructeur).  
 Ajoutez une méthode `deposer(self, montant)` qui augmente le solde.  
